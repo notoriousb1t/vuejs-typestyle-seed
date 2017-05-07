@@ -1,6 +1,8 @@
 import Vue from 'vue'
-import './styles/layout'
 import { App } from './components'
+
+// import base styles
+import './styles'
 
 // bootstrap application
 new Vue({  

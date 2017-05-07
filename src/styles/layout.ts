@@ -47,23 +47,3 @@ cssRule('html,body', {
   fontFamily: '"Open Sans"',
   fontSize: '14pt'
 })
-
-cssRule('h1', {
-  fontSize: '1.8rem',
-  margin: '.8rem'
-})
-cssRule('h2', {
-  fontSize: '1.6rem',
-  margin: '.8rem'
-})
-cssRule('h3', {
-  fontSize: '1.3rem',
-  margin: '.6rem'
-})
-cssRule('h4', {
-  fontSize: '1.2rem',
-  margin: '.6rem'
-})
-cssRule('input,select,button', {
-  fontSize: '1rem'
-})
